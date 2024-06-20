@@ -20,5 +20,5 @@ Statusene her blir linket til fra dokumentasjonen til Fiks Plan
 
 Ta kontakt med oss på #fiks-protokoller Slack kanalen hvis du trenger hjelp :)
 
-## [Implementeringsstatus](Status/Implementering/README)
-## [Egenerklæring](Status/Egenerklæring/README)
+## [Implementeringsstatus](Status/Implementering)
+## [Egenerklæring](Status/Egenerklæring)
