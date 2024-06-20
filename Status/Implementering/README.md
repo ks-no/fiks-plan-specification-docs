@@ -74,9 +74,9 @@ Man finner status for tjenesten i kolonnen for leverandøren.
 | [Hent Planomraader](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#hent-planomraader)                                       |       |      |         |            |         |           |
 | [Hent Relaterteplaner](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#hent-relaterteplaner)                                 |       |      |         |            |         |           |
 | [Oppdater Arealplan](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#oppdater-arealplan)                                     |       |      |         |            |         |           |
-| [Opprett Arealplan](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#opprett-arealplan)                                       |       |      |         |            |         |           |
+| [Opprett Arealplan](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#opprett-arealplan)                                       |   P   |      |         |            |         |           |
 | [Oppdater Dispensasjon](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#oppdater-dispensasjon)                               |       |      |         |            |         |           |
-| [Registrer Dispensasjon](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#registrer-dispensasjon)                             |       |      |         |            |         |           |
+| [Registrer Dispensasjon](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#registrer-dispensasjon)                             |   P   |      |         |            |         |           |
 | [Registrer Midlertidigforbudmottiltak](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#registrer-midlertidigforbudmottiltak) |       |      |         |            |         |           |
 | [Registrer Planavgrensning](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#registrer-planavgrensning)                       |       |      |         |            |         |           |
 | [Registrer Planbehandling](https://github.com/ks-no/fiks-plan-specification/wiki/Tjenester#registrer-planbehandling)                         |       |      |         |            |         |           |
