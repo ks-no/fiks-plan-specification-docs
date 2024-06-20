@@ -8,6 +8,8 @@ Her finner man statuser på implementering og egenerklæring for tjenestene fra 
 
 Disse statusene kan endres av leverandørene selv via pull-requests.
 
+Statusene her blir linket til fra dokumentasjonen til Fiks Plan 
+
 #### Hvordan
 
 - Du må ha en Github bruker
