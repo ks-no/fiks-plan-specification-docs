@@ -10,7 +10,7 @@ Disse statusene kan endres av leverandørene selv via pull-requests.
 
 Statusene her blir linket til fra dokumentasjonen til Fiks Plan 
 
-#### Hvordan
+#### Hvordan endre
 
 - Du må ha en Github bruker
 - Fork dette repositoriet til din egen bruker
